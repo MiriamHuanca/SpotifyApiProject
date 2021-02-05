@@ -72,7 +72,7 @@
             "customWebpackConfig": {
               "path": "./webpack.config.js"
             },
-            "proxyConfig": "src/proxy.config.jjson"
+            "proxyConfig": "src/proxy.config.json"
           },
           "configurations": {
             "production": {
