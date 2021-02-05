@@ -71,7 +71,8 @@
             "browserTarget": "SpotifyApiProject:build",
             "customWebpackConfig": {
               "path": "./webpack.config.js"
-            }
+            },
+            "proxyConfig": "src/proxy.config.jjson"
           },
           "configurations": {
             "production": {
